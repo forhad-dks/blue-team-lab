@@ -51,19 +51,19 @@ Changed permission of **/opt/splunk** dir & sub dir to user **splunk** and group
 Set Receiver Port on Kali Machine : **9997** 
 <img width="948" height="380" alt="splunk_ins3" src="https://github.com/user-attachments/assets/f96abb90-3e2e-4bc8-b815-e67e65ad8a50" />
 
-Get ip address of kali machine : **192.168.211.129**
-<img width="669" height="351" alt="splunk_ins4" src="https://github.com/user-attachments/assets/822ce5d0-efef-4544-a785-dd8d53ab43cf" />
+Get ip address of kali machine : **192.168.211.129**  
+<img width="669" height="351" alt="splunk_ins4" src="https://github.com/user-attachments/assets/822ce5d0-efef-4544-a785-dd8d53ab43cf" />  
 
-Now set **Host: 192.168.211.129** and **Port: 8089** as **Deployment Server**  in Windows Machine 
-<img width="577" height="486" alt="splunk_ins5" src="https://github.com/user-attachments/assets/f9b4e216-b636-4f99-83da-d1fbfd315293" />
+Now set **Host: 192.168.211.129** and **Port: 8089** as **Deployment Server**  in Windows Machine  
+<img width="577" height="486" alt="splunk_ins5" src="https://github.com/user-attachments/assets/f9b4e216-b636-4f99-83da-d1fbfd315293" />  
 <img width="610" height="495" alt="splunk_ins6" src="https://github.com/user-attachments/assets/f587609f-1ccd-4efd-821d-5c5305de5abc" />
 
-Check if the forwarder is active 
+Check if the forwarder is active   
 
-<img width="861" height="603" alt="splunk_chk_forwarder" src="https://github.com/user-attachments/assets/afe5ceff-c98b-44f4-b073-4251c53b1b11" />
+<img width="861" height="603" alt="splunk_chk_forwarder" src="https://github.com/user-attachments/assets/afe5ceff-c98b-44f4-b073-4251c53b1b11" />  
 
-Now, we will setup sysmon. First we will download and extract sysmon files to C:\Tools\Sysmon
-<img width="714" height="306" alt="Sysmon_down" src="https://github.com/user-attachments/assets/a6a469a6-a052-42cd-ad29-35eb19f2d9a5" />
+Now, we will setup sysmon. First we will download and extract sysmon files to C:\Tools\Sysmon  
+<img width="714" height="306" alt="Sysmon_down" src="https://github.com/user-attachments/assets/a6a469a6-a052-42cd-ad29-35eb19f2d9a5" />  
 
 Save the configuraion file to the same directory
 <img width="831" height="383" alt="sysmon_config" src="https://github.com/user-attachments/assets/6a351aec-73f4-4ac3-bb2b-d4a2e984229d" />
