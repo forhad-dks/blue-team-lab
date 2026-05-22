@@ -14,6 +14,13 @@
 
 <img width="660" height="371" alt="Network_diag" src="https://github.com/user-attachments/assets/eed4b65d-c3ad-4971-ad58-066f77c6cf0c" />
 
+# VM Configuration
+
+| VM | CPU (Core) | RAM (GB) | Network Type |
+|---|---:|---:|---|
+| Kali | 2 | 4 | NAT |
+| Windows Server 2019 | 2 | 4 | NAT |
+
 # Splunk Installation
 
 **Downloading Splunk Version : splunk-10.2.2**
@@ -98,7 +105,7 @@ wevtutil sl "Microsoft-Windows-Windows Defender/Operational" /e:true
 ```
 
 
-Install Splunk Add-on for Sysmon which will help use to check the logs properly.   
+Install Splunk Add-on for Sysmon which will help us to check the logs properly.   
 <img width="934" height="479" alt="Sysmon_addon" src="https://github.com/user-attachments/assets/4be5e802-e557-4a5d-ab1d-ebfc500ad8d1" />  
 
 
