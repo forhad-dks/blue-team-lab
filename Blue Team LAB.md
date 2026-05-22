@@ -117,8 +117,7 @@ Import-Module Invoke-AtomicRedTeam
 
 Sometime it will make error for directory, To solve this we need to set the environment path to fix the issue.  
 <img width="754" height="171" alt="Invoke_error" src="https://github.com/user-attachments/assets/bd6b6432-e8c4-4f27-8fed-5b5a394276c7" />  
-```
-```
+
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force
 
