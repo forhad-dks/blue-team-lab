@@ -50,6 +50,7 @@ Changed permission of **/opt/splunk** dir & sub dir to user **splunk** and group
 
 Set Receiver Port on Kali Machine : **9997** 
 <img width="948" height="380" alt="splunk_ins3" src="https://github.com/user-attachments/assets/f96abb90-3e2e-4bc8-b815-e67e65ad8a50" />
+
 Get ip address of kali machine : **192.168.211.129**
 <img width="669" height="351" alt="splunk_ins4" src="https://github.com/user-attachments/assets/822ce5d0-efef-4544-a785-dd8d53ab43cf" />
 
