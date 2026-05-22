@@ -3,7 +3,7 @@
 
 # System Information
 
-* CPU: 12th Gen Intel(R) Core(TM) i5-12400
+- CPU: 12th Gen Intel(R) Core(TM) i5-12400
 - RAM: 16GB
 - Storage: 256 GB M.2, 512 GB SSD, 1TB HDD
 - Graphics Card: Radeon RX 560 (4 GB)
