@@ -13,7 +13,9 @@
 # Network Diagram
 
 <img width="660" height="371" alt="Network_diag" src="https://github.com/user-attachments/assets/eed4b65d-c3ad-4971-ad58-066f77c6cf0c" />
+
 # Splunk Installation
+
 **Downloading Splunk Version : splunk-10.2.2**
 
 <img width="1278" height="228" alt="splunk_download" src="https://github.com/user-attachments/assets/7094a80a-a859-40fe-989b-576631236043" />
