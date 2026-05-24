@@ -18,9 +18,15 @@
 
 | VM | CPU (Core) | RAM (GB) | Network Type |
 |---|---:|---:|---|
-| Kali | 2 | 4 | NAT |
+| Kali | 4 | 4 | NAT |
 | Windows Server 2019 | 2 | 4 | NAT |
 
+**Kali Machine**  
+<img width="762" height="734" alt="image" src="https://github.com/user-attachments/assets/2c12c73d-0654-4a73-afeb-235c11eb8f40" />
+
+**Windows Machine**  
+<img width="762" height="737" alt="image" src="https://github.com/user-attachments/assets/29424946-5d36-484e-9a00-6c5be79a85bd" />
+  
 # Splunk Installation
 
 **Downloading Splunk Version : splunk-10.2.2**
